@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # installed
+    'rest_framework_simplejwt',
     'rest_framework',
-    'managment',
 ]
 
 MIDDLEWARE = [
